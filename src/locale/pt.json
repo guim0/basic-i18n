@@ -1,0 +1,7 @@
+
+{
+    "translation":{
+        "header": "Nosso Cabeçalho",
+        "footer": "Nosso Rodape {{year}}"
+    }
+}

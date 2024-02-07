@@ -1,0 +1,8 @@
+
+
+{
+    "translation":{
+        "header": "Our Header",
+        "footer": "Our Footer {{year}}"
+    }
+}
