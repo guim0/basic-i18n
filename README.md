@@ -143,16 +143,7 @@ import "./lib/i18n.ts";
 
 - As you can see, to use the translation we have to pass the `t` from `useTranslation` with the tokens we created on our json languages.
 
-## Result
+##  [Check the result over my dev.to article!](https://dev.to/guim0/internationalization-with-i18next-react-i18n-4m28#:~:text=our%20.json%20languages.-,Result,-On%20English!)
 
-On English!
-![[Pasted image 20240207143416.png]]
-On Portuguese!
-![[Pasted image 20240207143428.png]]---
 
 # I Hope this could helped you somehow!
-
-How to find me?
-
-- Github: https://github.com/guim0
-- LinkedIn: https://www.linkedin.com/in/guim0-dev/
